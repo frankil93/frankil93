@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frankil93
+- 👋 Hi, I’m @frankil
 - 👀 I’m interested in solving real life problems
 - 🌱 I’m currently learning to live contentfully
 - 💞️ I’m looking to collaborate on software solutions
